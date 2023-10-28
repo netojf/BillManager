@@ -1,6 +1,3 @@
-// web 357266536439-ukhs622erk208n3us1gqr3t8otau0bmi.apps.googleusercontent.com
-// ios 357266536439-0i167lqpi457egr9atepa7v4830trgk3.apps.googleusercontent.com
-
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
